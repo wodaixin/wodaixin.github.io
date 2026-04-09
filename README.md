@@ -1,23 +1,33 @@
-# 🌐 Wodaixin's blog
+# 🌐 Wodaixin's Digital Space
 
-> **“实践是检验真理的唯一标准！”**
+> **信息越是爆炸，深度思考就越是唯一的护城河。**
 
-这是我的个人数字阵地，依托 Hugo Stack 架构构建。
-
----
-
-## 🛠️ Hugo Stack
-
-* **Static Site Generator**: [Hugo](https://gohugo.io/) (Extended Version)
-* **Theme**: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
-* **Deployment**: GitHub Actions + GitHub Pages
-* **Automation**: Node.js / Python Custom Scripts
+这是我的个人数字阵地，主要记录关于 **AI 驱动逻辑、系统性思考以及复杂博弈** 的推演过程。
 
 ---
 
-## 🛡️ 交流与连接 (Connecting)
+## 🧩 关注领域
 
-* **认知对齐**：若你对 AI 商业路径或全链路实战逻辑有深度合作意向，欢迎访问 [wodaixin.github.io/blog](https://wodaixin.github.io/blog) 阅读完整博文。
+- **系统思维**：拆解复杂业务与涌现行为的底层逻辑。
+- **AI 融合**：探究 AI Agent 在现实流转中的能力边界与落地路径。
+- **决策科学**：风险管控与组织行为下的最优路径选择。
 
 ---
-© 2026 Wodaixin. All rights reserved.
+
+## 🛠️ 技术基石
+
+- **搭建框架**：[Hugo](https://gohugo.io/) [Stack](https://themes.gohugo.io/themes/hugo-theme-stack/)
+- **自动化流**：Node.js / Python 定制脚本
+- **知识管理**：构建个人“第二大脑”的实验场。
+
+---
+
+## 🛡️ 连接须知
+
+这里没有速成的说明书，只有思维生长的轨迹。
+
+- 若你寻找的是 **业务层面的招式**：或许你会觉得这里空无一物，真正的伏笔往往藏于水面之下。
+- 若你寻找的是 **认知上的同频**：欢迎移步 [wodaixin.github.io/blog](https://wodaixin.github.io/blog)，期待一见如故的深度共鸣。
+
+---
+© 2026 Wodaixin. **Think Deep, Act Precise.**
